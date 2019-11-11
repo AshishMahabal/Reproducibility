@@ -209,6 +209,7 @@ Add additional notes about how to deploy this on a live system
 
 -->
 
+<!---
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -226,6 +227,13 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+-->
+
+## Authors
+
+* Ashish Mahabal - [Website](http://www.astro.caltech.edu/~aam/)
+* Meet Gandhi
+  - If you encounter any problems/bugs/issues please contact me on Github or by emailing me at gandhi.meet@btech2015.iitgn.ac.in for any bug reports/questions/suggestions. I prefer questions and bug reports on Github as that provides visibility to others who might be encountering same issues or who have the same questions.
 
 ## Acknowledgments
 
