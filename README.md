@@ -44,7 +44,7 @@ https://github.com/amiratag/ACE.git
 
 ## Classification of Light Curves
 
-![alt text](https://github.com/AshishMahabal/dmdt_trans/blob/master/doc/lightcurves.png "Light curves")
+![alt text](https://github.com/AshishMahabal/Reproducibility/blob/master/doc/lightcurves.png "Light curves")
 
 A light curve is a time series dataset of magnitude, the negative logarithm of flux measurement(as smaller magnitude implies brighter objects). The measurements available in these light curve datasets are:
 
@@ -59,8 +59,8 @@ Astronomical objects exhibit variation in brightness due to some intrinsic physi
 
 ### Light curve data processing into *dmdt*
 
-![alt text](https://github.com/AshishMahabal/dmdt_trans/blob/master/doc/lightcurve2dmdt.png "Light curve to dmdt")
-![alt text](https://github.com/AshishMahabal/dmdt_trans/blob/master/doc/dmdt.png "dmdt")
+![alt text](https://github.com/AshishMahabal/Reproducibility/blob/master/doc/lightcurve2dmdt.png "Light curve to dmdt")
+![alt text](https://github.com/AshishMahabal/Reproducibility/blob/master/doc/dmdt.png "dmdt")
 
 A light curve is transformed into a 2D mapping based on changes in magnitude *dm* and time differences *dt*, so that they can be used as an input to Convolutional Neural Network. Note that to give each bin in a dmdt an equal footing, the dmdt bins are of same size instead of the bin spacing depending on the actual magnitude of *dm* and *dt*. To know more about *dmdts*, refer [Deep-Learnt Classification of Light Curves](https://arxiv.org/abs/1709.06257)
 
