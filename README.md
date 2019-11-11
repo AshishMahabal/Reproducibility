@@ -7,7 +7,6 @@ The project deals with the following:
 * bra**XAI**: Interpreting [braai](https://github.com/dmitryduev/braai) performing Real-Bogus classification for the Zwicky Transient Facility (ZTF) using Deep learning. 
 * Classification of Periodic Variables present in Catalina Real-Time Transient Survey(CRTS) using Interpretable Convolutional Neural Networks
 * Transfer Learning: Predicting unclassified variables observed and recorded by Zwicky Transient Facility (ZTF) and Palomar Transient Facility (PTF) using the Convolutional Neural Network trained using CRTS data
-* PTF_classifier: Predicting unclassified variables recorded by PTF using the Convolutional Neural Network trained using classified PTF variables
 * workflow: Creating a workflow for periodic variable prediction from the light curve data directly using dmdt generation and trained CNN
 
 ## Getting Started
