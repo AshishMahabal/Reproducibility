@@ -6,8 +6,8 @@ The project deals with the following:
 * pix2pi**XAI**: Generating class-specific visualizations from input-specific visualizations like grad-CAM, Saliency Maps and SHAP using pix2pix Generative Adversarial Network
 * bra**XAI**: Interpreting [braai](https://github.com/dmitryduev/braai) performing Real-Bogus classification for the Zwicky Transient Facility (ZTF) using Deep learning. 
 * Classification of Periodic Variables present in Catalina Real-Time Transient Survey(CRTS) using Interpretable Convolutional Neural Networks
-* Transfer Learning: Predicting unclassified variables observed and recorded by Zwicky Transient Facility (ZTF) and Palomar Transient Facility (PTF) using the Convolutional Neural Network trained using CRTS data
-* workflow: Creating a workflow for periodic variable prediction from the light curve data directly using dmdt generation and trained CNN
+<!---* Transfer Learning: Predicting unclassified variables observed and recorded by Zwicky Transient Facility (ZTF) and Palomar Transient Facility (PTF) using the Convolutional Neural Network trained using CRTS data
+* workflow: Creating a workflow for periodic variable prediction from the light curve data directly using dmdt generation and trained CNN-->
 
 ## Getting Started
 
