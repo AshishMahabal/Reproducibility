@@ -230,9 +230,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Authors
 
-* Ashish Mahabal - [Website](http://www.astro.caltech.edu/~aam/)
 * Meet Gandhi
   - If you encounter any problems/bugs/issues please contact me on Github or by emailing me at gandhi.meet@btech2015.iitgn.ac.in for any bug reports/questions/suggestions. I prefer questions and bug reports on Github as that provides visibility to others who might be encountering same issues or who have the same questions.
+* Ashish Mahabal - [Website](http://www.astro.caltech.edu/~aam/)
 
 ## Acknowledgments
 
