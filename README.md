@@ -38,7 +38,7 @@ pip install Lasagne==0.1
 git clone git://github.com/Theano/Theano.git
 git clone https://github.com/IBM/AIX360
 git clone https://github.com/affinelayer/pix2pix-tensorflow.git
-https://github.com/amiratag/ACE.git
+git clone https://github.com/amiratag/ACE.git
 ```
 
 ## Classification of Light Curves
