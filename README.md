@@ -83,6 +83,8 @@ Once the light curve data is placed in the appropriate folder configuration, run
 
 *grad-CAM is another way of visualizing attention over input which uses penultimate (pre Dense layer) Conv layer output. The intuition is to use the nearest Conv layer to utilize spatial information that gets completely lost in Dense layers.* - [Class Activation Maps](https://raghakot.github.io/keras-vis/visualizations/class_activation_maps/)
 
+Even though Grad-CAM uses class-specific gradient information, in case of dmdts the structure is not apparent hence Grad-CAM visualizations vary depending on the input dmdt.
+
 ![alt text](https://github.com/AshishMahabal/Reproducibility/blob/master/cnn%20interpretations/keras-vis/grad_CAM/EW/1005.png "gradCAM of 1005th test dmdt")
 
 #### [Saliency Maps](https://arxiv.org/pdf/1312.6034v2.pdf)
